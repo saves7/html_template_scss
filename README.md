@@ -2,7 +2,7 @@
 html_template
 simpl html template allowing qwick start html page.
 
-Стили scss компилируются в папку /css с помощью расширения Live Sass Compiler в низу нажать Watch Sass. В настройках расширения
+Стили scss компилируются в папку /css с помощью расширения VSCode Live Sass Compiler в низу нажать Watch Sass. В настройках расширения
  -  Extention Setting прописать, меняя scss будет появляется через время css, если в main.scss прописан @import, то не нужные файлы в css монжно удалить
 {
     "workbench.colorTheme": "Default Dark+",
